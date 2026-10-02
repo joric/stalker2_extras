@@ -8,7 +8,7 @@ rem The T_WorldMap_UDIM wasn't updated besides it was shrunk to 16k as well.
 rem Stalker2/Content/Mods/ZoneUnderground
 
 set infile=C:\Temp\Exports\Stalker2\Content\Mods\ZoneUnderground\T_ZU_UndergroundMap_UDIM.png
-set dstdir=..\extras\dlc_ug
+set dstdir=..\extras\ug
 
 del fixed.v
 
