@@ -1,14 +1,7 @@
 @echo off
 
-rem The file seems smaller, it's only 200 megs. It looks like the latest FModel is able to export the texture.
-rem extracted T_DLCWorldMap_UDIM and yea new maps are shitty. it's not 64k now it's only 16k.
-rem CNPP is slighly revealed but it's all low res. Will add to extras.
-rem The T_WorldMap_UDIM wasn't updated besides it was shrunk to 16k as well.
-
-rem Stalker2/Content/Mods/ZoneUnderground
-
 set infile=C:\Temp\Exports\Stalker2\Content\Mods\ZoneUnderground\T_ZU_UndergroundMapDLC_UDIM.png
-set dstdir=..\extras\dlc_ug
+set dstdir=..\tiles\dlc_ug
 
 del fixed.v
 
